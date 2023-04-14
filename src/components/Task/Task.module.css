@@ -1,0 +1,22 @@
+.cross {
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    position: relative;
+    left: 350px;
+    top: -34.9px;
+}
+
+.check {
+    position: relative;
+    left: 37px;
+    top: 38px;
+
+}
+
+p {
+    font-family: Hind Madurai;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@500&display=swap');
+
